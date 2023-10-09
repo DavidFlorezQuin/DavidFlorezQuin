@@ -1,6 +1,6 @@
 # Hola, soy David Flórez
 
-Soy un estudiante del SENA apasionado por la programación y el desarrollo web. Con más de 9 meses de experiencia en la industria, he adquirido habilidades sólidas en diversas tecnologías y frameworks, incluyendo PHP, HTML, CSS, Tailwind CSS, y Laravel. Mi enfoque es crear proyectos elegantes y bien organizados.
+Soy un estudiante del SENA apasionado por la programación y el desarrollo web. Con más de 9 meses de experiencia en la industria, he adquirido habilidades sólidas en diversas tecnologías y frameworks, incluyendo PHP, HTML, CSS, SQL, Tailwind CSS, y Laravel. Mi enfoque es crear proyectos elegantes y bien organizados.
 
 ## Experiencia
 
@@ -19,6 +19,7 @@ Soy un estudiante del SENA apasionado por la programación y el desarrollo web. 
 
 - **Lenguajes de Programación**: PHP, HTML, CSS, JavaScript.
 - **Frameworks y Librerías**: Laravel, Tailwind CSS.
+- **Bases de datos**: SQL.
 - **Herramientas de Diseño**: Figma.
 
 ## Intereses
