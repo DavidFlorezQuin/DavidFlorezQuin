@@ -9,12 +9,6 @@ Soy un estudiante del SENA apasionado por la programación y el desarrollo web. 
   - Lideré equipos de desarrollo, garantizando la calidad del código y la entrega oportuna de proyectos.
   - Mantuve un alto estándar de diseño y usabilidad en las aplicaciones.
 
-## Proyectos Destacados
-
-- [Nombre del Proyecto](Enlace al Repositorio): Una aplicación web construida con Laravel y Tailwind CSS que [breve descripción del proyecto].
-- [Nombre del Proyecto](Enlace al Repositorio): Un sitio web personal desarrollado en HTML, CSS y JavaScript que [breve descripción del proyecto].
-- [Nombre del Proyecto](Enlace al Repositorio): [Breve descripción del proyecto].
-
 ## Habilidades Técnicas
 
 - **Lenguajes de Programación**: PHP, HTML, CSS, JavaScript.
