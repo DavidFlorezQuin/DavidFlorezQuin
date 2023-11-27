@@ -12,7 +12,7 @@ Soy un estudiante del SENA apasionado por la programación y el desarrollo web. 
   
 ## Experiencia
 
-- **Programador Full Stack** en Opa Noticias (2023/02/02 - Actualidad)
+- **Programador Full Stack** en Opa Noticias (2023/02/02 - 2023/11/15)
   - Trabajé en proyectos web utilizando tecnologías como Laravel, PHP, HTML, CSS y JavaScript.
   - Lideré equipos de desarrollo, garantizando la calidad del código y la entrega oportuna de proyectos.
   - Mantuve un alto estándar de diseño y usabilidad en las aplicaciones.
