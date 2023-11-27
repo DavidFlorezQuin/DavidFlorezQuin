@@ -9,6 +9,7 @@ Soy un estudiante del SENA apasionado por la programación y el desarrollo web. 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,figma,github,html,idea,java,js,md,mysql,nextjs,postman,react,laravel,wordpress,tailwind,vscode&perline=14" />
   </a>
+  
 ## Experiencia
 
 - **Programador Full Stack** en Opa Noticias (2023/02/02 - Actualidad)
