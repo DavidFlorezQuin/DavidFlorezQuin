@@ -4,6 +4,10 @@
 
 Soy un estudiante del SENA apasionado por la programación y el desarrollo web. Con más de 9 meses de experiencia en la industria, he adquirido habilidades sólidas en diversas tecnologías y frameworks, incluyendo PHP, HTML, CSS, SQL, Tailwind CSS, y Laravel. Mi enfoque es crear proyectos elegantes y bien organizados.
 
+##Tecnologías que conozco
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,cssc,cpp,discord,dynamodb,figma,github,html,idea,java,js,md,materialui,mysql,nextjs,postman,react,redux,tailwind,vscode&perline=14" />
+  </a>
 ## Experiencia
 
 - **Programador Full Stack** en Opa Noticias (2023/02/02 - Actualidad)
