@@ -37,10 +37,10 @@ Soy un estudiante del SENA apasionado por la programación y el desarrollo web. 
 ## Estadisticas
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DavidFlorezQuin&theme=dark&hide_border=true&border_radius=4.6&mode=weekly" alt="GitHub Streak" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFlorezQuin&size_weight=0.5&count_weight=0.5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFlorezQuin&layout=compact)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DavidFlorezQuin&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DavidFlorezQuin&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ## Contacto
 
 - [GitHub](https://github.com/DavidFlorezQuin)
