@@ -34,6 +34,10 @@ Soy un estudiante del SENA apasionado por la programación y el desarrollo web. 
 - Disfruto trabajando en equipo y liderando proyectos.
 - Siempre busco aprender nuevas tecnologías y mantenerme actualizado en el mundo del desarrollo web.
 
+## Estadisticas
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DavidFlorezQuin&theme=dark&hide_border=true&border_radius=4.6&mode=weekly" alt="GitHub Streak" /></a>
+
 ## Contacto
 
 - [GitHub](https://github.com/DavidFlorezQuin)
