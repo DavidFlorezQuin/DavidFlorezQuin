@@ -22,22 +22,27 @@ Soy un jóven apasionado por la programación y la arquitectura de software. Con
 ## Habilidades Técnicas
 
 - **Programación**:
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,cs,html, kotlin&perline=5" />
   </a>
 - **Frameworks y Librerías**:
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,dotnet,bootstrap,tailwind&perline=5" />
   </a>
 	- **IDE's**:
+   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,androidstudio,vs&perline=5" />
   </a>
 - **Bases de datos**:
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql&perline=5" />
   </a>
 - **Herramientas**:
+  
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=notion,git,linux&perline=5" />
   </a>
