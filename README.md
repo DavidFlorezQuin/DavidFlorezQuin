@@ -20,32 +20,15 @@ Soy un jóven apasionado por la programación y la arquitectura de software. Con
   - Mantuve un alto estándar de diseño y usabilidad en las aplicaciones.
 
 ## Habilidades Técnicas
+## Habilidades Técnicas
 
-- **Programación**:
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,cs,html, kotlin&perline=5" />
-  </a>
-- **Frameworks y Librerías**:
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,bootstrap,tailwind&perline=5" />
-  </a>
-- **IDE's**:
-   
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,androidstudio,vs&perline=5" />
-  </a>
-- **Bases de datos**:
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql&perline=5" />
-  </a>
-- **Herramientas**:
-  
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,git,linux&perline=5" />
-  </a>
+| **Categoría**         | **Detalles**                                                                                                                                           |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programación**      | [![Programación](https://skillicons.dev/icons?i=java,js,cs,html,kotlin&perline=5)](https://skillicons.dev)                                               |
+| **Frameworks y Librerías** | [![Frameworks y Librerías](https://skillicons.dev/icons?i=spring,dotnet,bootstrap,tailwind&perline=5)](https://skillicons.dev)              |
+| **IDE's**             | [![IDE's](https://skillicons.dev/icons?i=visualstudio,androidstudio,vs&perline=5)](https://skillicons.dev)                                             |
+| **Bases de datos**    | [![Bases de datos](https://skillicons.dev/icons?i=mysql&perline=5)](https://skillicons.dev)                                                             |
+| **Herramientas**      | [![Herramientas](https://skillicons.dev/icons?i=notion,git,linux&perline=5)](https://skillicons.dev)                                                   |
 
 ## Intereses
 
