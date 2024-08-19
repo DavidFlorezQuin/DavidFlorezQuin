@@ -15,7 +15,7 @@ Soy un estudiante del SENA apasionado por la programación y el desarrollo web. 
 ## Tecnologías que conozco
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,github,html,idea,java,js,md,mysql,nextjs,postman,react,laravel,wordpress,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,github,html,idea,java,js,md,mysql,nextjs,postman,react,laravel,wordpress,tailwind,androidstudio,cs,dotnet,vscode&perline=14" />
   </a>
   
 ## Experiencia
