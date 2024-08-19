@@ -40,8 +40,9 @@ Soy un jóven apasionado por la programación y la arquitectura de software. Con
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DavidFlorezQuin&theme=dark&hide_border=true&border_radius=4.6&mode=weekly" alt="GitHub Streak" /></a>
 
 ## Contacto
-
-[![GitHub](https://skillicons.dev/icons?i=github&perline=5e)](https://github.com/DavidFlorezQuin)
+<a href="(https://github.com/DavidFlorezQuin)">
+[![GitHub](https://skillicons.dev/icons?i=github&perline=5e)](https://skillicons.dev)
+</a>
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=5e)](https://www.linkedin.com/in/david-florez-quintero-20189220a)
 [![Correo Electrónico](https://skillicons.dev/icons?i=gmail&perline=5e)](mailto:davidmauricioflorez@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram&perline=5e)](https://www.instagram.com/davidflorez5843/)
