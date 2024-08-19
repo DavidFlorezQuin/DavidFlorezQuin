@@ -22,6 +22,7 @@ Soy un jóven apasionado por la programación y la arquitectura de software. Con
 ## Habilidades Técnicas
 
 - **Programación**:
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,cs,html, kotlin&perline=5" />
   </a>
