@@ -20,7 +20,6 @@ Soy un jóven apasionado por la programación y la arquitectura de software. Con
   - Mantuve un alto estándar de diseño y usabilidad en las aplicaciones.
 
 ## Habilidades Técnicas
-## Habilidades Técnicas
 
 | **Categoría**         | **Detalles**                                                                                                                                           |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,8 +41,9 @@ Soy un jóven apasionado por la programación y la arquitectura de software. Con
 
 ## Contacto
 
-- [GitHub](https://github.com/DavidFlorezQuin)
-- [LinkedIn](https://www.linkedin.com/in/david-florez-quintero-20189220a)
-- [Correo Electrónico]( davidmauricioflorez@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github&perline=5e)](https://github.com/DavidFlorezQuin)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=5e)](https://www.linkedin.com/in/david-florez-quintero-20189220a)
+[![Correo Electrónico](https://skillicons.dev/icons?i=gmail&perline=5e)](mailto:davidmauricioflorez@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram&perline=5e)](https://www.instagram.com/davidflorez5843/)
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o estás interesado en colaborar en proyectos, no dudes en contactarme.
