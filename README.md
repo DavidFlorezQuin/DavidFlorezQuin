@@ -10,13 +10,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Neiva%2C%20Huila-yellow?logo=googlemaps&logoColor=white&label=Colombia&labelColor=blue&color=yellow)
 
-Soy un estudiante del SENA apasionado por la programación y el desarrollo web. Con más de 9 meses de experiencia en la industria, he adquirido habilidades sólidas en diversas tecnologías y frameworks, incluyendo PHP, HTML, CSS, SQL, Tailwind CSS, y Laravel. Mi enfoque es crear proyectos elegantes y bien organizados.
-
-## Tecnologías que conozco
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,github,html,idea,java,js,md,mysql,nextjs,postman,react,laravel,wordpress,tailwind,androidstudio,cs,dotnet,vscode&perline=14" />
-  </a>
+Soy un jóven apasionado por la programación y la arquitectura de software. Con más de 9 meses de experiencia en la industria, he adquirido habilidades sólidas en diversas tecnologías y frameworks, incluyendo PHP, HTML, CSS, SQL, Tailwind CSS, y Laravel. Mi enfoque es crear proyectos bien estructurados con buenas prácticas.
   
 ## Experiencia
 
@@ -27,10 +21,26 @@ Soy un estudiante del SENA apasionado por la programación y el desarrollo web. 
 
 ## Habilidades Técnicas
 
-- **Lenguajes de Programación**: PHP, HTML, CSS, JavaScript.
-- **Frameworks y Librerías**: Laravel, Tailwind CSS.
-- **Bases de datos**: SQL.
-- **Herramientas de Diseño**: Figma.
+- **Programación**:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,cs,html, kotlin&perline=5" />
+  </a>
+- **Frameworks y Librerías**:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,bootstrap,tailwind&perline=5" />
+  </a>
+	- **IDE's**:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,androidstudio,vs&perline=5" />
+  </a>
+- **Bases de datos**:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql&perline=5" />
+  </a>
+- **Herramientas**:
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,git,linux&perline=5" />
+  </a>
 
 ## Intereses
 
